@@ -1,0 +1,1 @@
+A robust desktop inventory management system built with Python, Flask, and SQLite. Features real-time stock tracking, low-stock color alerts, dynamic dashboard statistical cards, and complete offline-first retail operations support.
